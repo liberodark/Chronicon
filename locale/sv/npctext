@@ -1,0 +1,19 @@
+[GAMBLER]
+gambler_complete="Look at you! Looking like you're ready to take on the world. You've got a long way to go, and I can help you get there. My shop is now open for business.##Welcome!"
+gambler_pending="Come back when you've got some more experience."
+gambler_intro="Hi there.. welcome to The Chronicon. Always good to have a new face around here.#What do I do? Well, I sell some of the most valuable equipment.. if you have the crystals to afford it, that is. But I don't sell to just anyone who walks in here.##Get some combat experience, and then come back to me, and we'll talk."
+gambler_title="Gambling"
+gambler_name="Tarot"
+[GUIDE]
+guide_intro="Welcome, champion, to The Chronicon! I am Korem, and it is my duty as The Master of Trials to guide you through your trial to complete the challenges of The Chronicon. Speak with me to start a new Act, or if you have any questions."
+guide_title="Prövningsmästaren"
+guide_name="Korem"
+[VENDOR]
+vendor_intro="Need to re stock your potions or perhaps buy some new equipment? Then I am your man! Sarek's Goods, at your service."
+vendor_title="Trolldrycker & Utrustning"
+vendor_name="Sarek"
+[GUARD]
+guard_text3="Var hälsad!"
+guard_text2="Trevligt att ses!"
+guard_text1="Välkommen, Mästare."
+guard_name="Vakt"
