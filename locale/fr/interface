@@ -1,8 +1,8 @@
 [POPUPS]
-popup_tombstone_title="=Tombstone="
-popup_default_title="Confirm"
-popup_leave_txt="Area you sure you want to leave this area?"
-popup_reset_txt="Reset and enter zone ZONE?#This will also dispel all Shrine buffs!"
+popup_tombstone_title="=Pierre tombale="
+popup_default_title="Confirmer"
+popup_leave_txt="Vous êtes sûr de vouloir quitter cette zone?"
+popup_reset_txt="Réinitialiser et entrer dans la zone ZONE?#Cela permettra également de dissiper tous les buffs de sanctuaire!"
 popup_tombstone_txt="Kills: KILLS total, BS bosses, CK champions, EK elites.#Loot: LEGS Legendaries, DROPS item drops, BREAKS objects broken.#Wealth: CRYSTALS Crystals collected in life.#Life: Level LEVEL, Mastery MASTERY, in TIME.#Anomaly Level ANOMS reached."
 [ENCHANTER]
 enchanter_button0="Re-roll"
@@ -19,7 +19,7 @@ enchanter_agument_button_mouse="LMB to Augment once, hold Ctrl to Augment max"
 enchanter_agument_button_gamepad="(Y) to Augment once, hold Left Trigger to Augment max#(X) to Re-roll"
 enchanter_gamepad_info="Hold Right Trigger for info"
 enchanter_scramble_button_gamepad="(A) to Scramble"
-enchanter_locked="<Enchant is locked>"
+enchanter_locked="<Enchantement verrouillé>"
 [GEMCUTTER]
 gemcutter_slot_item="Item Slot"
 gemcutter_slot_item_desc="Put an item here to modify its sockets or to insert gems."
