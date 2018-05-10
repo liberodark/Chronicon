@@ -11,8 +11,8 @@
 
 Community Translate : <a href="http://steamcommunity.com/app/375480/discussions/0/1692662484255991698/"> Link </a>
 
-- liberodark : <a href="http://steamcommunity.com/app/391730/discussions/0/451850849181153569/"> French </a>
-- Waiting for : <a href="http://steamcommunity.com/app/391730/discussions/0/351659808495213242/"> Russian </a>
-- Waiting for : <a href="http://steamcommunity.com/app/391730/discussions/0/133255603285038720/"> Spanish </a>
-- Waiting for : <a href="http://steamcommunity.com/app/391730/discussions/0/1620599015892125406/"> Brazilian </a>
-- Waiting for : German
+- liberodark : <a href="https://steamcommunity.com/app/375480/discussions/0/154643795209132883/"> French </a>
+- Waiting for : <a href="https://steamcommunity.com/app/375480/discussions/0/135508489631032200/"> Russian </a>
+- Waiting for : <a href="https://steamcommunity.com/app/375480/discussions/0/154643795209132883/"> Spanish </a>
+- Waiting for : <a href="https://steamcommunity.com/app/375480/discussions/0/135510669599994687/"> Brazilian </a>
+- Waiting for : <a href="https://steamcommunity.com/app/375480/discussions/0/458605578275783223/"> German </a>
