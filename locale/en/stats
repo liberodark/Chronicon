@@ -1,4 +1,4 @@
-[STAT MISC]
+﻿[STAT MISC]
 stat_misc_sec="/sec"
 [STAT SECTIONS]
 stat_sect_coh="*Chance On Hit Damages*"
@@ -32,6 +32,10 @@ stat_kills_unique="Unique Kills"
 stat_kills_champ="Champion Kills"
 stat_kills_elite="Elite Kills"
 stat_kills_tot="Total Kills"
+stat_stagger="Damage Stagger"
+stat_aura_range="Aura Range"
+stat_stat_aura_effectlight_rad="Aura Effect"
+stat_heritage_effect="Heritage Effect"
 stat_light_rad="Light Radius"
 stat_exp_bonus="Bonus Experience"
 stat_crystal_bonus="Bonus Crystals"
