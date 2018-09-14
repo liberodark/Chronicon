@@ -1,7 +1,4 @@
-﻿[NPC_SPEECH]
-npc_temple_garden="Wait!"
-npc_temple_entry="Stay back, mortal!"
-[PLAYER_SPEECH]
+﻿[PLAYER_SPEECH]
 pools_single="I need to find the Key in The Lost City first."
 pools_multi="We need to find the Key in The Lost City first."
 lost_city_single="I need to find Diana Jones near The Pools of Eternity."
