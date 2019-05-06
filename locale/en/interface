@@ -27,7 +27,7 @@ enchanter_locked="<Enchant is locked>"
 enchanter_index="Enchant Index"
 enchanter_type_epic="Epic"
 enchanter_type_major="Major"
-enchanter_type_minor="Mint"
+enchanter_type_minor="Minor"
 [GEMCUTTER]
 gemcutter_slot_item="Item Slot"
 gemcutter_slot_item_desc="Put an item here to modify its sockets or to insert gems."
