@@ -48,6 +48,7 @@ gemcutter_button_upgrade_button_desc_mouse="LMB to upgrade one, hold Ctrl to upg
 gemcutter_button_upgrade_button_desc_gamepad="(A) to upgrade one, hold Left Trigger to upgrade all"
 gemcutter_button_upgrade_desc1="Put a gem from the gem tab into the slot on the far left of this button, then press this button to upgrade it!"
 [TRANSMUTER]
+transmute_recipe_book_close="Close Recipe Book"
 transmute_recipe_unknown="You haven't yet discovered the recipe for this transmutation... experiment, and you may find it!"
 transmute_recipe_set_text="Sacrifices 30x Champion's Crown and a Set item of any quality to get a different item from the same set!"
 transmute_recipe_set_name="Set Item Conversion"
