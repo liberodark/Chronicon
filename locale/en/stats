@@ -137,5 +137,6 @@ stat_sect_healing="*Healing*"
 stat_sect_coh="*Chance On Hit Damages*"
 stat_sect_ele_res="*Elemental Resistances*"
 stat_sect_ele_dam="*Elemental Damage Bonuses*"
+stats="Stats"
 [STAT MISC]
 stat_misc_sec="/sec"
