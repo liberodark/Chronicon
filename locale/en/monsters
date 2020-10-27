@@ -929,3 +929,7 @@ elite_affix_name_96="Sorcerer"
 elite_affix_name_97="Runelord"
 [MISC]
 secret_pet_goblin_name="Golsmeg"
+companion_tag_1="NAME's companion"
+companion_tag_2="NAME's unwanted companion"
+enemy_tag_hidden="Hidden Powers"
+affix_improved="Improved"
